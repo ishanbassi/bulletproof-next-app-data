@@ -1,8 +1,8 @@
 {
   "ownerId": "github-62026183",
   "slug": "Post-from-Client-Side",
-  "title": "",
-  "content": "",
+  "title": "Post Title from edit ui",
+  "content": "Post conent from edit ui",
   "createdAt": 1632564953511,
-  "updatedAt": 1632574733012
+  "updatedAt": 1632619243414
 }
